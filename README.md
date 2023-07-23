@@ -11,7 +11,7 @@ This Python script is designed to calculate the total lines of code (LOC) and to
 
 ### How to Use:
 
-1. Install the required libraries (if not already installed) by running pip install nbformat.
+1. Install the required libraries (if not already installed) by running "pip install nbformat".
 2. Place the script in the same directory as the Jupyter notebook you want to analyze.
 3. Edit the "a" variable to specify the path to the notebook file.
 4. Execute the script, and it will display the total lines of code and markdown in the notebook.
